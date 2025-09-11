@@ -77,7 +77,8 @@ IP Address for Internet Network Connection:
 
 14. Create Windows 10 Virtual Machine and name it "HospitalCLIENT1".
 
-<img width="1024" height="768" alt="HospitalCLIENT1 Windows Client Setup" src="https://github.com/user-attachments/assets/75caaba5-cec8-41f2-82b9-dcb3254fd1f6" />
+<img width="2345" height="1485" alt="HospitalClient VM installation" src="https://github.com/user-attachments/assets/e61f0288-b1b8-498f-8177-fa2a08715107" />
+<img width="2319" height="1492" alt="HospitalClient VM installation2" src="https://github.com/user-attachments/assets/04622c1e-8073-4811-920a-2a5e49e3f1f3" />
 
 Once the Windows 10 VM is setup, run the command ipconfig on command prompt to confirm the IP address and run the command ipconfig/all to see the detailed information on the domain ranging from network adapters, DNS server, DHCP server, IP address and MAC address.
 
