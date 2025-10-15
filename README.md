@@ -89,6 +89,14 @@ Once the Windows 10 VM is setup, run the command ipconfig on command prompt to c
 Run the command whoami to make sure everything is running successfully and verify the domain membership and authenticate my username a-shaikh. 
 <img width="1024" height="768" alt="HospitalCLIENT1 whoami command after joining domain" src="https://github.com/user-attachments/assets/6d5b80af-b921-4b44-b9ac-62cb65cfeaa5" />
 
+Bonus: Set up Windows 11 VM, run the command ipconfig on command prompt to confirm the IP address and run the command ipconfig/all to see the detailed information on the domain ranging from network adapters, DNS server, DHCP server, IP address and MAC address. Also run the command whoami to make sure everything is running successfully.
+
+<img width="1024" height="768" alt="HospitalCLIENT Windows 11 Domain Admin Login" src="https://github.com/user-attachments/assets/2ad32cdc-b198-4407-acf8-f092a9cb5411" />
+<img width="1024" height="768" alt="HospitalCLIENT Windows 11 ipconfig and whoami" src="https://github.com/user-attachments/assets/d40ecfa7-5956-4cd1-acf8-f91fde0828d3" />
+<img width="1024" height="768" alt="HospitalCLIENT Windows 11 ipconfig" src="https://github.com/user-attachments/assets/a7c51f5e-4fd2-4d36-8f38-a8e9cd4d23dc" />
+
+
+
 
 
 
